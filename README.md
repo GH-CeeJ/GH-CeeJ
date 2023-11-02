@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Applying filters with SQL](https://docs.google.com/document/d/1t9c4N3MjOqtbuk7wfJjwU_Wb9-OkuiWEgqlXNrxhpew/edit?resourcekey=0-vaMTGnFPBI3j2fsVF0jMKA#heading=h.adnh333husy)
-- [Setting file permissions in Linux](https://docs.google.com/document/d/1t9c4N3MjOqtbuk7wfJjwU_Wb9-OkuiWEgqlXNrxhpew/edit?resourcekey=0-vaMTGnFPBI3j2fsVF0jMKA#heading=h.adnh333husy)
+- [Setting file permissions in Linux](https://docs.google.com/document/d/14TEXEyuJwjd8R3MiQNy2AErOA5oumgP41MCXjDeMmio/edit?resourcekey=0-6ky4nwod39lZndaIUkb3OA#heading=h.adnh333husy)
 
 <h2>📝 Certifications:</h2>
 
